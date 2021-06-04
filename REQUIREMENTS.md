@@ -1,6 +1,6 @@
 ### Hardware
 * COSAL requires atleast 4GB of memory to function on smaller programs. Storage and number of processors vary based on the size of the targe code for clone detection.
-* For the CodeJam dataset used in the paper, we used a 16 node cluster 4-core AMD opteron processor and 32GB DDR3 1333 ECCDRAM. This took around 2 hours for COSAL to identify clusters in the dataset.
+* For the AtCoder dataset used in the paper, we used a 16 node cluster 4-core AMD opteron processor and 32GB DDR3 1333 ECCDRAM. This took around 2 hours for COSAL to identify clusters in the dataset.
 
 ### Java
 * COSAL requires [JDK version 1.8](https://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html). After downloading this version configure the environment variable **$JAVA_HOME** to the path where Java is installed.
